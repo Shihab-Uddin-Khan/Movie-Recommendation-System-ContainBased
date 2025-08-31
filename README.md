@@ -1,19 +1,22 @@
 #🎬 Movie-Recommendation-System-ContainBased
 
 
-A **smart and interactive movie recommendation system** built using **Python, Streamlit, and TMDB API**. This project allows users to explore movies and get personalized recommendations with posters, ratings, and more, all through a sleek web interface.
+A **smart and interactive movie recommendation system** built using Scikit-learn, Streamlit, and TMDB API**. This project allows users to explore movies and get personalized recommendations with posters, ratings, and more, all through a sleek web interface.
 
 ---
 
 ## 🔗 Live Demo
 
-Check out the live application [here]([YOUR_DEPLOYMENT_LINK](https://huggingface.co/spaces/qShihab/Movie-Recommendation-System))  
+Check out the live application [here](https://huggingface.co/spaces/qShihab/Movie-Recommendation-System)  
+> The app is deployed on **Hugging Face Spaces**, providing a seamless user experience without installation.
 
-> The app is deployed on **Hugging face spaces**, providing a seamless user experience without installation.
-
-## Must requirment ( must read )
--Due to very large size i was unable to upload the datasets and the the simmilarity.joblib file . you can download those file form the below google drive link. To run this code on streamlit use " python -m streamlit run app.py " in the terminal. 
-Check out the files [here]([YOUR_DEPLOYMENT_LINK](https://huggingface.co/spaces/qShihab/Movie-Recommendation-System))
+## Must requirement (must read)
+- Due to very large size I was unable to upload the datasets and the `similarity.joblib` file.  
+- You can download those files from the Google Drive link below.
+  Download the files from [here]([https://huggingface.co/spaces/qShihab/Movie-Recommendation-System](https://drive.google.com/file/d/1oGEX1hWysly4Ww2QujIS4adhvGebfKy8/view?usp=sharing))    
+- To run this code on Streamlit use:  
+  ```bash
+  python -m streamlit run app.py
 
 ## 📸 Screenshots
 **Home Page**  
