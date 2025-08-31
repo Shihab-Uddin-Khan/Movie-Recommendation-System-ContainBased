@@ -13,7 +13,7 @@ Check out the live application [here](https://huggingface.co/spaces/qShihab/Movi
 ## Must requirement (must read)
 - Due to very large size I was unable to upload the datasets and the `similarity.joblib` file.  
 - You can download those files from the Google Drive link below.
-  Download the files from [here](https://drive.google.com/file/d/1oGEX1hWysly4Ww2QujIS4adhvGebfKy8/view?usp=sharing)  
+  Download the files from [here](https://drive.google.com/drive/folders/182SJKIy--fWK5CnZjyR8RUR_ZFbwbifN?usp=drive_link)  
 - To run this code on Streamlit use:  
   ```bash
   python -m streamlit run app.py
